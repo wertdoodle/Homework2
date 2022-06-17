@@ -1,0 +1,21 @@
+Homework 2-2
+
+Mahir Islam
+
+6/15/2022
+
+8. What is Maven?
+
+Maven is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project.
+
+9. What is Selenium Webdriver?
+
+Selenium WebDriver is a web framework that permits you to execute cross-browser tests. This tool is used for automating web-based application testing to verify that it performs expectedly. Selenium WebDriver allows you to choose a programming language to create test scripts.
+
+10. What are some of the tools used for load testing?
+
+Apache JMete, LoadRunner, Boomq.io, Gatling, K6, LoadNinja, WebLOAD, BlazeMeter, NeoLoad, Locust
+
+11. What is the big O notation in computer science?
+
+Big O Notation is a way to measure an algorithm's efficiency. It measures the time it takes to run your function as the input grows. Or in other words, how well does the function scale? There are two parts to measuring efficiency — time complexity and space complexity.
