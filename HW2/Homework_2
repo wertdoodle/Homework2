@@ -56,11 +56,11 @@ package HW2;
 
 public class Vowels {
 	public static void main(String[] args) {
-<<<<<<< HEAD
+
 		String str= "Here’s how it works";
-=======
+
 		String str= "Hereâ€™s how it works";
->>>>>>> 7e694e4fd87dfd99e186e926b214e6ca47aca83d
+
 		str = str.replaceAll("[aeiou]", "?");
 		System.out.println(str);}
 
