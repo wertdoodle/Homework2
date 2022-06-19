@@ -59,8 +59,6 @@ public class Vowels {
 
 		String str= "Here’s how it works";
 
-		String str= "Hereâ€™s how it works";
-
 		str = str.replaceAll("[aeiou]", "?");
 		System.out.println(str);}
 
